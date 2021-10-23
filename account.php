@@ -12,35 +12,35 @@ include "DBconnection.php";
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Online Express</title>
  
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
  
     <link href="css/bootstrap.min.css" rel="stylesheet">
-	<link href="css/style.css" rel="stylesheet">
-	 
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="css/style.css" rel="stylesheet">
+     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
  </head>
 <body style="margin-top: -20px " > 
-<div class="header" style="overflow-y: scroll">	
+<div class="header" style="overflow-y: scroll"> 
  <div class="container">
 <div class="navbar">
-	
+    
 <div class="logo">
     <h1 style="color:rgb(11, 52, 24);">Online Express <br> supermarket</h1>
 </div>
 <nav>
 <ul style="font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';font-size: 18px">
-  	<li><a class="active" href="index.php">Home</a></li>
+    <li><a class="active" href="index.php">Home</a></li>
  
-	<li><a class="active" href="ProductCB.php">Baverages</a></li>
-	<li><a href="ProductCB2.php">Cooking Essential</a></li>
- 	<li><a href="ProductCB3.php">Fruits</a></li>
- 	<li><a href="ProductCB4.php">Vegetables</a>	</li>			
-	<li><a   href="aboutus.php">About</a></li>
-  	<li><a href="contactus.php">Contact Us</a></li>
-					
-	<li><a href="account.php">Account</a></li>
+    <li><a class="active" href="ProductCB.php">Baverages</a></li>
+    <li><a href="ProductCB2.php">Cooking Essential</a></li>
+    <li><a href="ProductCB3.php">Fruits</a></li>
+    <li><a href="ProductCB4.php">Vegetables</a> </li>           
+    <li><a   href="aboutus.php">About</a></li>
+    <li><a href="contactus.php">Contact Us</a></li>
+                    
+    <li><a href="account.php">Account</a></li>
  
 </ul>
 </nav>
@@ -69,17 +69,17 @@ include "DBconnection.php";
                             <input type="text"   name="username" id="username" placeholder="username"required> 
                             <input type="password" name="password" id="password" placeholder="password">
                             <button name="submit" type="submit" class="btn">Login</button>
-                          	<div class="panel-danger"><a  href="adminaccount.php">Admin ? Log in Here</a></div>
+                            <div class="panel-danger"><a  href="adminaccount.php">Admin ? Log in Here</a></div>
                         </form>
 
                         <form id="Regform" method="post" action="userinsert.php">
                             <input type="text" id="CustomerName" name="CustomerName" placeholder="Customer Name" required>
-							<input type="text" id="Address" name="Address" placeholder="Address" required>  
-							<input type="text" id="City" name="City" placeholder="City" required>
-							<input type="text" id="PostalCode" name="PostalCode" placeholder="PostalCode" required>
-							<input type="text" id="Country" name="Country" placeholder="Country" required>
+                            <input type="text" id="Address" name="Address" placeholder="Address" required>  
+                            <input type="text" id="City" name="City" placeholder="City" required>
+                            <input type="text" id="PostalCode" name="PostalCode" placeholder="PostalCode" required>
+                            <input type="text" id="Country" name="Country" placeholder="Country" required>
                            <input type="email"  id="email" name="email" placeholder="email" required>
-							  <input type="password" id="password" name="password" placeholder="password" required>
+                              <input type="password" id="password" name="password" placeholder="password" required>
                             <button type="submit" name="submit"  class="btn"  value="Register">Register </button>
                             
                         </form>
@@ -91,7 +91,7 @@ include "DBconnection.php";
 
 </div>
 
- 	
+    
 <!-----featured categories------>
 <div class="catergories">
     <div class="small-container">
@@ -158,58 +158,55 @@ include "DBconnection.php";
     <div class="container">
         <div class="row">
             <div class="footer-col-1">
-                <h3>Download our app </h3>
-                <p>Download app for android and ios mobile phones</p>
-                <div class="app-logo">
-                    <img src="images/play-store.png" alt="">
-                    <img src="images/app-store.png" alt="">
-                </div>
+                <h3>Online Express supermarket</h3>
+                <p>To get in touch with our customer service team email us at customerservice@OnlineExpress.com or give us a call on +94 11 2323540 between 8am to 8pm daily. We look forward to serving you with all grocery needs fresh to your home!</p>
+               
             </div>
             <div class="footer-col-2">
-                <img src="images/logo-white.png" alt="">
-                <p>Download app for android and ios mobile phones</p>
+                 <h3 >Online Express supermarket</h3>
+                <p>Enter Sri Lanka's freshest online grocery store </p>
             </div>
             <div class="footer-col-3">
-                <h3>usful links</h3>
+                <h3>Customer Benefits</h3>
                 <ul>
-                    <li>coupons</li>
-                    <li>blog post</li>
-                    <li>return policy</li>
-                    <li>join affilitate</li>
+                    <li>Best Prices </li>
+                    <li>Wide Assortment</li>
+                    <li>Easy Returns</li>
+                    <li>Offers</li>
                 </ul>
             </div>
             <div class="footer-col-4">
-                <h3>follow us</h3>
+                <h3>Follow Us</h3>
                 <ul>
-                    <li>facebook</li>
-                    <li>twiter</li>
-                    <li>instagram</li>
-                    <li>youtube</li>
+                    <li>Facebook</li>
+                    <li>Twiter</li>
+                    <li>Instagram</li>
+                    <li>Youtube</li>
                 </ul>
             </div>
         </div>
         <hr>
-        <p class="copyright">copyright 2020 - </p>
+        <p class="copyright">©Online Express
+supermarket 2021</p>
     </div>
 </div>
-</body>
-</html>>>>>
-	<script type="text/javascript">
+</html>>>>>>
+    <script type="text/javascript">
 function conf()
 {
 var con=confirm("You Must Log In First. Thank You !");
 }
 </script>
-	
+    
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-	<script src="js/slider.js"></script>
+    <script src="js/slider.js"></script>
   </body>
 </html>
 
 
-		
-	
+        
+    
 <script>
     var Loginform = document.getElementById("Loginform");
     var Regform = document.getElementById("Regform");

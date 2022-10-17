@@ -10,7 +10,7 @@ include "DBconnection.php";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Online Express supermarket</title>
+    <title>AAA Technologies</title>
  
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	
@@ -27,7 +27,7 @@ include "DBconnection.php";
 <div class="navbar">
 	
 <div class="logo">
-    <h1 style="color:rgb(11, 52, 24);">Online Express <br> supermarket</h1>
+    <h1 style="color:rgb(11, 52, 24);">AAA  <br> Technologies</h1>
 </div>
 <nav>
 <ul style="font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';font-size: 18px">
@@ -62,7 +62,7 @@ include "DBconnection.php";
         </div>
         <div class="col-2">
            
-            <p style="font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';font-size: 16px">Online Express supermarket is proudly Sri Lankan, owned and operated over the last 15 years, delivering the freshest quality products, along with great value, serving thousands of Sri Lankans every day.
+            <p style="font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';font-size: 16px">AAA Technologies is proudly Sri Lankan, owned and operated over the last 15 years, delivering the freshest quality products, along with great value, serving thousands of Sri Lankans every day.
 <br>
 As a subsidiary of the  Online Express Group, Online Express Group operates 11 supermarkets; 19 of which are fully owned and 6 franchise outlets operating under the ‘Super K’ brand. Operating with the core purpose of improving the quality of life for the nation, the supermarkets are conveniently located across the country providing our shoppers with a world class retail experience.
 <br>
@@ -107,7 +107,7 @@ With a passion for food particularly fresh food, our team of over 4500 people ar
             <div class="col-2">
                 <h1>Best Prices & Offers</h1>
                 <p>
-                    Enjoy the same lowest prices as your local Online Express supermarket, Express & Food Hall store</p>
+                    Enjoy the same lowest prices as your local AAA Technologies, Express & Food Hall store</p>
                 <a href="ProductCB4.php" class="btn">buy now &#8594;</a>
             </div>
         </div>
@@ -140,47 +140,42 @@ With a passion for food particularly fresh food, our team of over 4500 people ar
 
 
 <!----footer---->
-
 <div class="footer">
     <div class="container">
         <div class="row">
             <div class="footer-col-1">
-                <h3>Download our app </h3>
-                <p>Download app for android and ios mobile phones</p>
-                <div class="app-logo">
-                    <img src="images/play-store.png" alt="">
-                    <img src="images/app-store.png" alt="">
-                </div>
+                <h3>AAA Technologies</h3>
+                <p>To get in touch with our customer service team email us at customerservice@OnlineExpress.com or give us a call on +94 11 2323540 between 8am to 8pm daily. We look forward to serving you with all grocery needs fresh to your home!</p>
+               
             </div>
             <div class="footer-col-2">
-                <img src="images/logo-white.png" alt="">
-                <p>Download app for android and ios mobile phones</p>
+                 <h3 >AAA Technologies</h3>
+                <p>Enter Sri Lanka's freshest online grocery store </p>
             </div>
             <div class="footer-col-3">
-                <h3>usful links</h3>
+                <h3>Customer Benefits</h3>
                 <ul>
-                    <li>coupons</li>
-                    <li>blog post</li>
-                    <li>return policy</li>
-                    <li>join affilitate</li>
+                    <li>Best Prices </li>
+                    <li>Wide Assortment</li>
+                    <li>Easy Returns</li>
+                    <li>Offers</li>
                 </ul>
             </div>
             <div class="footer-col-4">
-                <h3>follow us</h3>
+                <h3>Follow Us</h3>
                 <ul>
-                    <li>facebook</li>
-                    <li>twiter</li>
-                    <li>instagram</li>
-                    <li>youtube</li>
+                    <li>Facebook</li>
+                    <li>Twiter</li>
+                    <li>Instagram</li>
+                    <li>Youtube</li>
                 </ul>
             </div>
         </div>
         <hr>
-        <p class="copyright">copyright 2020 - </p>
+        <p class="copyright">©AAA   Technologies  2022
     </div>
-</div>
-</body>
-</html>>>>>
+</div></body>
+</html>>>>>>
 	<script type="text/javascript">
 function conf()
 {

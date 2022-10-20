@@ -17,7 +17,7 @@ if(!isset($_SESSION['name']))
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Online ExpresOnline Express supermarket</title>
+    <title>AAA Technologies</title>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
@@ -40,11 +40,14 @@ if(!isset($_SESSION['name']))
      	
 	 	
 	
-	<li><a class="active" href="products.php">Baverages</a></li>
-	<li><a href="products2.php">Cookingessential</a></li>  
-	<li><a href="products3.php">Fruits</a></li>  
-	<li><a href="products4.php">Vegetables</a></li>  
+	<li><a class="active" href="products.php">LAPTOP AND ACCESSORIES</a></li>
+	<li><a href="products2.php">COMPUTER AND ACCESSORIES</a></li>  
+	<li><a href="products3.php">NETWORKING</a></li>  
+	<li><a href="products4.php">PHONES & TABS</a></li>  
 	
+    <li><a href="account.php">Account</a></li>
+
+
      <li><a data-toggle="tab" href="#cart">Cart &nbsp; <i class="fa fa-shopping-cart"></i>&nbsp;<span class="badge"><?php if(isset($_SESSION["shopping_cart"])) { echo count($_SESSION["shopping_cart"]); } else { echo '0';}?></span></a></li>  
 	 
 	<li><a class="btn btn-default" href="customerprofile.php"> <i class="fa fa-user-circle"></i>&nbsp; <?php echo $name;?></a> </li>
@@ -289,7 +292,7 @@ if(!isset($_SESSION['name']))
             <div class="col-2">
                 <h1>Best Prices & Offers</h1>
                 <p>
-                    Enjoy the same lowest prices as your local Online ExpresOnline Express supermarket, Express & Food Hall store</p>
+                    Enjoy the same lowest prices as your local Online AAA Technologies, Express & Food Hall store</p>
                 <a href="products.html" class="btn">buy now &#8594;</a>
 
             </div>
@@ -328,12 +331,12 @@ if(!isset($_SESSION['name']))
     <div class="container">
         <div class="row">
             <div class="footer-col-1">
-                <h3>Online Express supermarket</h3>
+                <h3>AAA Technologies</h3>
                 <p>To get in touch with our customer service team email us at customerservice@OnlineExpress.com or give us a call on +94 11 2323540 between 8am to 8pm daily. We look forward to serving you with all grocery needs fresh to your home!</p>
                
             </div>
             <div class="footer-col-2">
-                 <h3 >Online Express supermarket</h3>
+                 <h3 >AAA Technologies</h3>
                 <p>Enter Sri Lanka's freshest online grocery store </p>
             </div>
             <div class="footer-col-3">
@@ -356,8 +359,7 @@ if(!isset($_SESSION['name']))
             </div>
         </div>
         <hr>
-        <p class="copyright">©Online Express
-supermarket 2021</p>
+        <p class="copyright">©AAA Technologies 2021</p> 
     </div>
 </div>
 </html>>>>>>

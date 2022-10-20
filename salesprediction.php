@@ -84,7 +84,7 @@ $saverage = array_sum($a)/count($a);
 <div class="container" >
  <div class="navbar">
  <div class="logo">
-                 <h1 style="color:rgb(11, 52, 24);">Online Express <br> supermarket</h1>
+                 <h1 style="color:rgb(11, 52, 24);">AAA Technologies</h1>
  </div>
 			
 			
@@ -94,12 +94,15 @@ $saverage = array_sum($a)/count($a);
 				 
 				 
 	 <li><a class="active" href="adminindex.php">Home</a></li>
-     <li><a href="bavarages.php">Baverages</a></li>
-	 <li><a href="cookingessentials.php">Cooking Essentials</a></li>
-	 <li><a href="fruits.php">Fruits</a></li>			 
-	 <li><a href="vegetables.php">Vegetables</a></li>		 
+     <li><a href="bavarages.php">LAPTOP AND ACCESSORIES</a></li>
+	 <li><a href="cookingessentials.php">COMPUTER AND ACCESSORIES</a></li>
+	 <li><a href="fruits.php">NETWORKING</a></li>			 
+	 <li><a href="vegetables.php">PHONES & TABS</a></li>		 
  	<li><a href="salesupdate.php">Sales</a></li>	
-	 <li><a href="salesprediction.php">Sales Prediction</a></li>			 
+	 <li><a href="salesprediction.php">Sales Prediction</a></li>	
+     
+     
+
 				 
   
 	<li><a class="" style="border-radius: 30px;transition: background 0.5s;display: inline-block;padding: 8px 20px;marging:15px 0;"> <i class="fa fa-user-circle"></i> Admin <?php echo $name;?></a> </li>
@@ -165,7 +168,7 @@ $saverage = array_sum($a)/count($a);
             <div class="col-2">
                 <h1>Best Prices & Offers</h1>
                 <p>
-                    Enjoy the same lowest prices as your local Online Express supermarket, Express & Food Hall store</p>
+                    Enjoy the same lowest prices as your local AAA Technologies, </p>
                 <a href="products.html" class="btn">buy now &#8594;</a>
             </div>
         </div>
@@ -201,12 +204,12 @@ $saverage = array_sum($a)/count($a);
     <div class="container">
         <div class="row">
             <div class="footer-col-1">
-                <h3>Online Express supermarket</h3>
+                <h3>AAA Technologies</h3>
                 <p>To get in touch with our customer service team email us at customerservice@OnlineExpress.com or give us a call on +94 11 2323540 between 8am to 8pm daily. We look forward to serving you with all grocery needs fresh to your home!</p>
                
             </div>
             <div class="footer-col-2">
-                 <h3 >Online Express supermarket</h3>
+                 <h3 >AAA Technologies</h3>
                 <p>Enter Sri Lanka's freshest online grocery store </p>
             </div>
             <div class="footer-col-3">
@@ -229,8 +232,7 @@ $saverage = array_sum($a)/count($a);
             </div>
         </div>
         <hr>
-        <p class="copyright">©Online Express
-supermarket 2021</p>
+        <p class="copyright">©AAA Technologies1</p>
     </div>
 </div>
 

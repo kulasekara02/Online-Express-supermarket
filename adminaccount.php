@@ -33,15 +33,13 @@ include "DBconnection.php";
 <ul style="font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';font-size: 18px">
   	<li><a class="active" href="index.php">Home</a></li>
  
-	<li><a class="active" href="ProductCB.php">Baverages</a></li>
-	<li><a href="ProductCB2.php">Cooking Essential</a></li>
- 	<li><a href="ProductCB3.php">Fruits</a></li>
- 	<li><a href="ProductCB4.php">Vegetables</a>	</li>			
+    <li><a class="active" href="ProductCB.php">LAPTOP AND ACCESSORIES</a></li>
+	<li><a href="ProductCB2.php">COMPUTER AND ACCESSORIES</a></li>
+ 	<li><a href="ProductCB3.php">NETWORKING</a></li>
+ 	<li><a href="ProductCB4.php">PHONES & TABS</a>	</li>			
 	<li><a   href="aboutus.php">About</a></li>
-  	<li><a href="contactus.php">Contact Us</a></li>
-					
+  	<li><a href="contactus.php">Contact Us</a></li>				
 	<li><a href="account.php">Account</a></li>
- 
 </ul>
 </nav>
           

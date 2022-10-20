@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Online Express supermarket</title>
+    <title>AAA Technologies</title>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
@@ -17,7 +17,7 @@
 <div class="container">
  <div class="navbar">
  <div class="logo">
-                <h1 style="color:rgb(11, 52, 24);">Online Express <br> supermarket</h1>
+                <h1 style="color:rgb(11, 52, 24);">AAA Technologies</h1>
  </div>
 			
 			
@@ -26,12 +26,14 @@
   <li>  <a class="active" href="index.php">Home</a></li>
  
  
-	<li><a class="active" href="ProductCB.php">Baverages</a></li>
-	<li><a href="ProductCB2.php">Cooking Essential</a></li>
- 	<li><a href="ProductCB3.php">Fruits</a></li>
- 	<li><a href="ProductCB4.php">Vegetables</a>	</li>			
+	<li><a class="active" href="ProductCB.php">LAPTOP AND ACCESSORIES</a></li>
+	<li><a href="ProductCB2.php">COMPUTER AND ACCESSORIES</a></li>
+ 	<li><a href="ProductCB3.php">NETWORKING</a></li>
+ 	<li><a href="ProductCB4.php">PHONES & TABS</a>	</li>			
 	<li><a   href="aboutus.php">About</a></li>
   	<li><a href="contactus.php">Contact Us</a></li>
+
+
 					
 	<li><a href="account.php">Account</a></li>				
 	 
@@ -120,12 +122,12 @@
     <div class="container">
         <div class="row">
             <div class="footer-col-1">
-                <h3>Online Express supermarket</h3>
+                <h3>AAA Technologies</h3>
                 <p>To get in touch with our customer service team email us at customerservice@OnlineExpress.com or give us a call on +94 11 2323540 between 8am to 8pm daily. We look forward to serving you with all grocery needs fresh to your home!</p>
                
             </div>
             <div class="footer-col-2">
-                 <h3 >Online Express supermarket</h3>
+                 <h3 >AAA Technologies</h3>
                 <p>Enter Sri Lanka's freshest online grocery store </p>
             </div>
             <div class="footer-col-3">
@@ -148,8 +150,7 @@
             </div>
         </div>
         <hr>
-        <p class="copyright">©Online Express
-supermarket 2021</p>
+        <p class="copyright">©AAA Technologies</p>
     </div>
 </div>
 </body>

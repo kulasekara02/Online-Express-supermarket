@@ -41,7 +41,7 @@ else
 <div class="container" >
  <div class="navbar">
  <div class="logo">
-               <h1 style="color:rgb(11, 52, 24);">Online Express <br> supermarket</h1>
+               <h1 style="color:rgb(11, 52, 24);">AAA Technologies</h1>
  </div>
 			
 			
@@ -51,12 +51,15 @@ else
 				 
 				 
 	 <li><a class="active" href="adminindex.php">Home</a></li>
-     <li><a href="bavarages.php">Baverages</a></li>
-	 <li><a href="cookingessentials.php">Cooking Essentials</a></li>
-	 <li><a href="fruits.php">Fruits</a></li>			 
-	 <li><a href="vegetables.php">Vegetables</a></li>		 
+     <li><a href="bavarages.php">LAPTOP AND ACCESSORIES</a></li>
+	 <li><a href="cookingessentials.php">COMPUTER AND ACCESSORIES</a></li>
+	 <li><a href="fruits.php">NETWORKING</a></li>			 
+	 <li><a href="vegetables.php">PHONES & TABS</a></li>		 
  	<li><a href="salesupdate.php">Sales</a></li>	
 	 <li><a href="salesprediction.php">Sales Prediction</a></li>
+
+
+
 	 		 
 				 
   
@@ -270,12 +273,12 @@ else
     <div class="container">
         <div class="row">
             <div class="footer-col-1">
-                <h3>Online Express supermarket</h3>
+                <h3>AAA Technologies</h3>
                 <p>To get in touch with our customer service team email us at customerservice@OnlineExpress.com or give us a call on +94 11 2323540 between 8am to 8pm daily. We look forward to serving you with all grocery needs fresh to your home!</p>
                
             </div>
             <div class="footer-col-2">
-                 <h3 >Online Express supermarket</h3>
+                 <h3 >AAA Technologies</h3>
                 <p>Enter Sri Lanka's freshest online grocery store </p>
             </div>
             <div class="footer-col-3">
@@ -298,8 +301,7 @@ else
             </div>
         </div>
         <hr>
-        <p class="copyright">©Online Express
-supermarket 2021</p>
+        <p class="copyright">©AAA Technologies</p>
     </div>
 </div>
 	  

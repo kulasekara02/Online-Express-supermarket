@@ -71,6 +71,10 @@ else
  <li>  <a class="active" href="customerprofile.php">My Profile</a></li>				 
  <li>  <a class="active" href="myorders.php">Orders</a></li>
 <li>  <a class="active" href="orderItems.php">Order Details</a></li>
+
+
+
+
 				 
 	 <li><a data-toggle="tab" href="#cart">  &nbsp; <i class="fa fa-shopping-cart"></i>&nbsp;<span class="badge"><?php if(isset($_SESSION["shopping_cart"])) { echo count($_SESSION["shopping_cart"]); } else { echo '0';}?></span></a></li> 			 
 				 

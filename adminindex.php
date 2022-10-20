@@ -46,12 +46,14 @@ else
 				 
 	 <li><a class="active" href="adminindex.php">Home</a></li>
  
-     <li><a href="bavarages.php">Baverages</a></li>
-	 <li><a href="cookingessentials.php">Cooking Essentials</a></li>
-	 <li><a href="fruits.php">Fruits</a></li>			 
-	 <li><a href="vegetables.php">Vegetables</a></li>	<li><a href="salesupdate.php">Sales</a></li>	
+     <li><a href="bavarages.php">LAPTOP AND ACCESSORIES</a></li>
+	 <li><a href="cookingessentials.php">COMPUTER AND ACCESSORIES</a></li>
+	 <li><a href="fruits.php">NETWORKING</a></li>			 
+	 <li><a href="vegetables.php">PHONES & TABS</a></li>	
+     <li><a href="salesupdate.php">Sales</a></li>	
 	 <li><a href="salesprediction.php">Sales Prediction</a></li>	 
  	
+
 	<li><a class="" style="border-radius: 30px;transition: background 0.5s;display: inline-block;padding: 8px 20px;marging:15px 0;"> <i class="fa fa-user-circle"></i> Admin <?php echo $name;?></a> </li>
 				 
 	<li><a class="" style="border-radius: 30px;transition: background 0.5s;display: inline-block;padding: 8px 20px;marging: 15px 0;" href="userLogout.php">Log Out &nbsp;<i class="fa fa-sign-out"></i></a>  </li> 

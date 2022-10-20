@@ -67,7 +67,7 @@ else
 <div class="container">
  <div class="navbar">
  <div class="logo">
-               <h1 style="color:rgb(11, 52, 24);">Online Express <br> supermarket</h1>
+               <h1 style="color:rgb(11, 52, 24);">AAA Technologies</h1>
  </div>
 			
 			
@@ -201,7 +201,7 @@ else
             <div class="col-2">
                 <h1>Best Prices & Offers</h1>
                 <p>
-                    Enjoy the same lowest prices as your local Online Express supermarket, Express & Food Hall store</p>
+                    Enjoy the same lowest prices as your local AAA Technologies</p>
                 <a href="ProductCB4.php" class="btn">buy now &#8594;</a>
             </div>
         </div>
@@ -239,12 +239,12 @@ else
     <div class="container">
         <div class="row">
             <div class="footer-col-1">
-                <h3>Online Express supermarket</h3>
+                <h3>AAA Technologies</h3>
                 <p>To get in touch with our customer service team email us at customerservice@OnlineExpress.com or give us a call on +94 11 2323540 between 8am to 8pm daily. We look forward to serving you with all grocery needs fresh to your home!</p>
                
             </div>
             <div class="footer-col-2">
-                 <h3 >Online Express supermarket</h3>
+                 <h3 >AAA Technologies</h3>
                 <p>Enter Sri Lanka's freshest online grocery store </p>
             </div>
             <div class="footer-col-3">

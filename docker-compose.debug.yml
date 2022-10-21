@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  onlineexpresssupermarket:
+    image: onlineexpresssupermarket
+    build:
+      context: .
+      dockerfile: ./Dockerfile

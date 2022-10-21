@@ -41,7 +41,7 @@ else
 <div class="container" >
  <div class="navbar">
  <div class="logo">
-                    <h1 style="color:rgb(11, 52, 24);">Online Express <br> supermarket</h1>
+                    <h1 style="color:rgb(11, 52, 24);">AAA Technologies</h1>
  </div>
 			
 			
@@ -51,12 +51,15 @@ else
 				 
 				 
 	 <li><a class="active" href="adminindex.php">Home</a></li>
-     <li><a href="bavarages.php">Baverages</a></li>
-	 <li><a href="cookingessentials.php">Cooking Essentials</a></li>
-	 <li><a href="fruits.php">Fruits</a></li>			 
-	 <li><a href="vegetables.php">Vegetables</a></li>		 
+     <li><a href="bavarages.php">LAPTOP AND ACCESSORIES</a></li>
+	 <li><a href="cookingessentials.php">COMPUTER AND ACCESSORIES</a></li>
+	 <li><a href="fruits.php">NETWORKING</a></li>			 
+	 <li><a href="vegetables.php">PHONES & TABS</a></li>		 
  	<li><a href="salesupdate.php">Sales</a></li>	
 	 <li><a href="salesprediction.php">Sales Prediction</a></li>
+
+
+
 	 		 
 				 
   
@@ -209,14 +212,14 @@ else
     <div class="small-container">
         <div class="row">
             <div class="col-3">
-                <a href="PProductCB4.php"><img src="images/va01.png" alt="" ><figcaption style="text-align: center;font-size: 50px;">Vegetables</figcaption></a>
+                <a href="vegetables.php"><img src="images/va01.png" alt="" ><figcaption style="text-align: center;font-size: 50px;">Vegetables</figcaption></a>
                 
             </div>
             <div class="col-3">
-                <a href="ProductCB.php"><img src="images/c02.png" alt=""><figcaption style="text-align: center;font-size: 50px;">Baverages</figcaption></a>
+                <a href="bavarages.php"><img src="images/c02.png" alt=""><figcaption style="text-align: center;font-size: 50px;">Baverages</figcaption></a>
             </div>
             <div class="col-3">
-                <a href="ProductCB3.php"><img src="images/f01.png" alt=""><figcaption style="text-align: center;font-size: 50px;">Fruits</figcaption></a>
+                <a href="fruits.php"><img src="images/f01.png" alt=""><figcaption style="text-align: center;font-size: 50px;">Fruits</figcaption></a>
             </div>
         </div>
     </div>
@@ -232,7 +235,7 @@ else
             <div class="col-2">
                 <h1>Best Prices & Offers</h1>
                 <p>
-                    Enjoy the same lowest prices as your local Online Express supermarket, Express & Food Hall store</p>
+                    Enjoy the same lowest prices as your local AAA Technologies, Express & Food Hall store</p>
                  <a href="ProductCB4.php" class="btn">buy now &#8594;</a>
             </div>
         </div>
@@ -249,7 +252,7 @@ else
             <div class="col-5">
                 <img src="images/logo-godrej.png" alt="">
             </div>
-            <div class="col-5">
+            
            
             <div class="col-5">
                 <img src="images/logo-coca-cola.png" alt="">
@@ -270,38 +273,35 @@ else
     <div class="container">
         <div class="row">
             <div class="footer-col-1">
-                <h3>Download our app </h3>
-                <p>Download app for android and ios mobile phones</p>
-                <div class="app-logo">
-                    <img src="images/play-store.png" alt="">
-                    <img src="images/app-store.png" alt="">
-                </div>
+                <h3>AAA Technologies</h3>
+                <p>To get in touch with our customer service team email us at customerservice@OnlineExpress.com or give us a call on +94 11 2323540 between 8am to 8pm daily. We look forward to serving you with all grocery needs fresh to your home!</p>
+               
             </div>
             <div class="footer-col-2">
-                <img src="images/logo-white.png" alt="">
-                <p>Download app for android and ios mobile phones</p>
+                 <h3 >AAA Technologies</h3>
+                <p>Enter Sri Lanka's freshest online grocery store </p>
             </div>
             <div class="footer-col-3">
-                <h3>usful links</h3>
+                <h3>Customer Benefits</h3>
                 <ul>
-                    <li>coupons</li>
-                    <li>blog post</li>
-                    <li>return policy</li>
-                    <li>join affilitate</li>
+                    <li>Best Prices </li>
+                    <li>Wide Assortment</li>
+                    <li>Easy Returns</li>
+                    <li>Offers</li>
                 </ul>
             </div>
             <div class="footer-col-4">
-                <h3>follow us</h3>
+                <h3>Follow Us</h3>
                 <ul>
-                    <li>facebook</li>
-                    <li>twiter</li>
-                    <li>instagram</li>
-                    <li>youtube</li>
+                    <li>Facebook</li>
+                    <li>Twiter</li>
+                    <li>Instagram</li>
+                    <li>Youtube</li>
                 </ul>
             </div>
         </div>
         <hr>
-        <p class="copyright">copyright 2020 - </p>
+        <p class="copyright">©AAA Technologies</p>
     </div>
 </div>
 
